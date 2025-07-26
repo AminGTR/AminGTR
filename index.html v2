@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Laman Rasmi Amin</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: white;
+      color: #0072ff;
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: bold;
+      transition: 0.3s ease;
+    }
+    .btn:hover {
+      background-color: #f1f1f1;
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #e0e0e0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Assalamualaikum, Saya Amin!</h1>
+  <p>Ini laman web rasmi saya. Saya minat teknologi, pembelajaran dan projek kreatif.</p>
+  <a class="btn" href="https://www.instagram.com/" target="_blank">Ikuti saya di Instagram</a>
+
+  <div class="footer">
+    © 2025 Amin. Dibina dengan semangat ingin belajar.
+  </div>
+</body>
+</html>
